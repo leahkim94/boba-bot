@@ -1,7 +1,7 @@
 {
-  "name": "easy-peasy-bot",
+  "name": "boba-bot",
   "version": "1.0.0",
-  "description": "The awesomest bot evar.",
+  "description": "boba bot beep bop",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,23 +9,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DEGoodmanWilson/easy-peasy-bot-app.git"
+    "url": "git+https://github.com/leahkim94/boba-bot.git"
   },
   "keywords": [
     "slack",
     "bot"
   ],
-  "author": "D.E. Goodman-Wilson",
+  "author": "Leah Kim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app/issues"
+    "url": "https://github.com/leahkim94/boba-bot/issues"
   },
-  "homepage": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app#readme",
+  "homepage": "https://github.com/leahkim94/boba-bot#readme",
   "engines": {
     "node": "5.1.1"
   },
   "dependencies": {
-    "botkit": "0.2.2",
+    "botkit": "^0.6.20",
     "botkit-storage-mongo": "^1.0.2",
     "mongodb": "^1.4.39"
   }
